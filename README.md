@@ -5,6 +5,8 @@ published at ASE 2021.
 It contains everything required to reproduce the results of the CiFi evaluation.
 
 ## Content:
+- [Requirements](REQUIREMENTS.md)
+- [Installation instructions](INSTALL.md)
 - Docker file
 - CiFi-Benchmark
 
